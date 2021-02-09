@@ -40,9 +40,7 @@ Run the following command at the root of the directory and you will be able to v
 
 `node server.js`
 
-The project was deployed on heroku and can viewed at this website:
-
-`https://boiling-headland-50650.herokuapp.com/`
+The project was deployed on heroku and can viewed at this website: https://w0rk0ut-tracker.herokuapp.com/
 
 ## Contributing
 
